@@ -7,4 +7,4 @@ def hanoi_tower(n, a, b, c):
         hanoi_tower(n - 1, b, a, c)
 
 
-hanoi_tower(5, 'A', 'B', 'C')
+hanoi_tower(2, 'A', 'B', 'C')
